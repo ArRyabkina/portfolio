@@ -79,3 +79,7 @@ body{
     height: 300%;
 }
 
+.disNone {
+    display: none
+}
+
